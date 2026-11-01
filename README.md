@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/logo.svg" width="104" alt="Messenger logo" />
+<img src="public/notification-icon-192.png" width="104" alt="Messenger logo" />
 
 # Messenger Frontend
 
