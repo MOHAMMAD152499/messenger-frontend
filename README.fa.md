@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="public/logo.svg" width="104" alt="لوگوی پیام‌رسان" />
+<img src="public/notification-icon-192.png" width="104" alt="لوگوی پیام‌رسان" />
 
 # فرانت‌اند پیام‌رسان (Messenger Frontend)
 
